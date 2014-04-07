@@ -1,2 +1,2 @@
 
-docker run -p 9292:80 stocard/kibana
+docker run -rm -p 9292:80 stocard/kibana
